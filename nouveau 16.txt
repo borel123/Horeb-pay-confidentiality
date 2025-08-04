@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CGU - Service de Transfert d’Argent</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      padding: 0;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 20px;
+    }
+    p, li {
+      font-size: 16px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>Conditions Générales d’Utilisation (CGU)</h1>
+  <p><strong>Service de transfert d’argent et d’achat de crédit téléphonique au Cameroun</strong></p>
+  <p><em>Dernière mise à jour : [Date]</em></p>
+
+  <h2>1. Objet du service</h2>
+  <ul>
+    <li>Effectuer des transferts d’argent entre portefeuilles mobiles Orange Money (OM) et MTN Mobile Money (MoMo) ;</li>
+    <li>Réaliser des achats de crédit téléphonique ou de services prépayés (Canal+, ENEO, CAMWATER, etc.).</li>
+  </ul>
+
+  <h2>2. Nature du service</h2>
+  <p>La plateforme agit en tant qu’intermédiaire technique et commercial. Elle n’est ni opérateur mobile ni établissement financier agréé.</p>
+
+  <h2>3. Engagements de l’utilisateur</h2>
+  <ul>
+    <li>Fournir des informations exactes ;</li>
+    <li>Ne pas utiliser le service à des fins illicites ;</li>
+    <li>Respecter la réglementation camerounaise.</li>
+  </ul>
+
+  <h2>4. Responsabilité de la plateforme</h2>
+  <ul>
+    <li>Exécuter les transactions conformément aux instructions ;</li>
+    <li>Informer en cas d’échec ;</li>
+    <li>Effectuer un remboursement selon les conditions prévues.</li>
+  </ul>
+  <p>La plateforme n’est pas responsable en cas de : erreurs de l’utilisateur, pannes réseau, ou force majeure.</p>
+
+  <h2>5. Délais de traitement</h2>
+  <p>Les opérations sont généralement immédiates, sauf en cas de surcharge ou panne fournisseur.</p>
+
+  <h2>6. Frais et commissions</h2>
+  <p>Les frais sont affichés avant chaque transaction. Toute opération validée est définitive sauf erreur reconnue.</p>
+
+  <h2>7. Remboursement</h2>
+  <p>Un remboursement est possible si :</p>
+  <ul>
+    <li>La transaction est validée par l’opérateur ;</li>
+    <li>Le service n’a pas été délivré ;</li>
+    <li>Les justificatifs sont fournis.</li>
+  </ul>
+  <p>Délai de remboursement : 3 jours ouvrés maximum.</p>
+
+  <h2>8. Protection des données personnelles</h2>
+  <p>Conformément à la loi n° 2010/012, les données sont utilisées uniquement pour le service, et ne sont pas partagées sans consentement.</p>
+
+  <h2>9. Modifications des conditions</h2>
+  <p>La plateforme peut modifier ces CGU à tout moment. Les utilisateurs seront informés.</p>
+
+  <h2>10. Loi applicable et règlement des litiges</h2>
+  <p>Les présentes conditions sont soumises au droit camerounais. En cas de litige, une solution amiable sera privilégiée, sinon les tribunaux compétents seront saisis.</p>
+
+  <h2>11. Contact</h2>
+  <p>Pour toute question ou réclamation :</p>
+  <p>[Adresse e-mail / Numéro de téléphone / Adresse physique]</p>
+
+  <footer>
+    <p>En utilisant ce service, vous acceptez sans réserve ces conditions.</p>
+  </footer>
+</body>
+</html>
